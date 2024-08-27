@@ -1,1 +1,2 @@
-# w3schools_jvascript_course_2024.08.27
+- Study and practice JS concepts and practice simple examples
+- Learning and develop JS skills
